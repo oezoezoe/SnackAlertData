@@ -1,0 +1,26 @@
+[
+    {
+      "Name": "Dole Whip Pineapple",
+      "Location": "Amazon",
+      "Details": "This Dole Whip Pineapple Upside-Down Cake is the perfect refreshing Disney snack that you have to try on your next visit to the parks!",
+      "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg",
+      "Latitude": 51.80753392266766,
+      "Longitude": 4.704660400739786
+    },
+    {
+      "Name": "Pizza Spring Rolls",
+      "Location": "SDK Kinderopvang",
+      "Details": " The Spring Rolls at this cart are the perfect savory snack to take on the go while you are waiting in line for the next ride. The Pizza flavor is a classic, and with two rolls per order, this snack is easily sharable with others in your party.",
+      "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/capuchin.jpg",
+      "Latitude": 51.80656536977455,
+      "Longitude": 4.704896359163132
+    },
+    {
+      "Name": "Fresh Fruit Waffle Sandwich",
+      "Location": "SDK Kinderopvang",
+      "Details": "The Fresh Fruit Waffle sandwich is located at Sleepy Hollow in the Magic Kingdom. This quick-service restaurant at Magic Kingdom is often overlooked but you can find other delightful creations here as well.",
+      "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/bluemonkey.jpg",
+      "Latitude": 51.80656536977455,
+      "Longitude": 4.704896359163132
+    }
+  ]
